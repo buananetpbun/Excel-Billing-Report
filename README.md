@@ -1,4 +1,4 @@
-# Excel-Billing-Report
+# Excel (microsoft office excel) Billing Report
 
 Biar Laporan Billing lebih rapi dan akurat harus ada catatan khusus, disini saya coba share laporan billing, bon op, utang user dan laporan keseluruhan dalam bentuk file excel:
 1.Laporan utang user, pelunasan utang user langsung milik OP
