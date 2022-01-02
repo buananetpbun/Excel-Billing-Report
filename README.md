@@ -10,3 +10,5 @@ Biar Laporan Billing lebih rapi dan akurat harus ada catatan khusus, disini saya
 
 Note:
 Laporan Billing dengan excel yang saya buat ditujukan untuk 4 operator, jika hanya ada 2 operator maka cukup hanya mengisi 2 kolom laporan saja.
+
+![image](https://user-images.githubusercontent.com/42666125/147881078-eb1e15a5-ac36-42c8-bb8b-ad38423b5df6.png)
