@@ -1,6 +1,6 @@
-# Excel (microsoft office excel) Billing Report
+# Excel (microsoft office excel) Warnet Billing Report
 
-Biar Laporan Billing lebih rapi dan akurat harus ada catatan khusus, disini saya coba share laporan billing, bon op, utang user dan laporan keseluruhan dalam bentuk file excel:
+Biar Laporan Billing Warnet lebih rapi dan akurat harus ada catatan khusus, disini saya coba share laporan billing, bon op, utang user dan laporan keseluruhan dalam bentuk file excel:
 
 1. Laporan utang user, pelunasan utang user langsung milik OP
 
@@ -14,7 +14,7 @@ Biar Laporan Billing lebih rapi dan akurat harus ada catatan khusus, disini saya
 6. Laporan bersih Billing harian dan bulanan
 
 Note:
-Laporan Billing dengan excel yang saya buat ditujukan untuk 4 operator, jika hanya ada 2 operator maka cukup hanya mengisi 2 kolom laporan saja.
+Laporan Billing Warnet dengan excel yang saya buat ditujukan untuk 4 operator, jika hanya ada 2 operator maka cukup hanya mengisi 2 kolom laporan saja.
 
 ![image](https://user-images.githubusercontent.com/42666125/147881078-eb1e15a5-ac36-42c8-bb8b-ad38423b5df6.png)
 
